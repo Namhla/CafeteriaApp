@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.cafeteria.client.web.model;
+package com.namhla.cafeteria.client.web.model;
 
 import java.io.Serializable;
 import java.math.BigDecimal;

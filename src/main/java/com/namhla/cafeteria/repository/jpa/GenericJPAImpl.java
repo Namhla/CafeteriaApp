@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.cafeteria.repository.jpa;
+package com.namhla.cafeteria.repository.jpa;
 
 import com.cafeteria.repository.GenericDAO;
 import java.io.Serializable;

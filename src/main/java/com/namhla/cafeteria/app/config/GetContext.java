@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package com.cafeteria.app.conf;
+package com.namhla.cafeteria.app.config;
 
 import org.springframework.context.ApplicationContext;
 

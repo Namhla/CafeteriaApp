@@ -5,7 +5,7 @@
 package com.namhla.cafeteria.services.impl;
 
 import com.namhla.cafeteria.app.factory.ItemFactory;
-import com.cafeteria.client.web.model.ItemModel;
+import com.namhla.cafeteria.client.web.model.ItemModel;
 import com.namhla.cafeteria.domain.Item;
 import com.namhla.cafeteria.domain.Stock;
 import com.namhla.cafeteria.services.ItemService;

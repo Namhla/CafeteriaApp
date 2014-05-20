@@ -5,7 +5,7 @@
 package com.namhla.cafeteria.services.impl;
 
 import com.cafeteria.services.MonthlySalaryService;
-import com.cafeteria.services.crud.EmployeeCrudService;
+import com.namhla.cafeteria.services.crud.EmployeeCrudService;
 import com.namhla.cafeteria.domain.Employee;
 import com.namhla.cafeteria.domain.EmployeeLog;
 import java.sql.Timestamp;

@@ -2,9 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.cafeteria.services.crud;
+package com.namhla.cafeteria.services.crud;
 
-import com.cafeteria.domain.Employee;
+import com.namhla.cafeteria.domain.Employee;
 import com.cafeteria.services.services;
 
 /**
@@ -12,7 +12,7 @@ import com.cafeteria.services.services;
  * @author Refilwe
  */
 public interface EmployeeCrudService extends services<Employee, Long> {
-
+      
    
     
 }

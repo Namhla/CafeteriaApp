@@ -86,5 +86,45 @@ public class CafeteriaCrudServiceImpl implements CafeteriaCrudService{
          setDao(dao);
         return dao.getEntitiesByProperName(name, value);
     }
+
+    @Override
+    public com.cafeteria.domain.Cafeteria findById(Long id) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public List<com.cafeteria.domain.Cafeteria> findAll() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void persist(com.cafeteria.domain.Cafeteria entity) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void merge(com.cafeteria.domain.Cafeteria entity) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public void remove(com.cafeteria.domain.Cafeteria entity) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public List<com.cafeteria.domain.Cafeteria> findInRange(int firstResult, int maxResults) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public com.cafeteria.domain.Cafeteria getByPropertyName(String name, String value) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public List<com.cafeteria.domain.Cafeteria> getEntitiesByProperName(String name, String value) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }
